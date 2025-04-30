@@ -1,2 +1,1 @@
-echo "este es mi primer crud";
-
+echo "mi primer crud";
